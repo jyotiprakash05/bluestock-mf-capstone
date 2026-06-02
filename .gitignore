@@ -1,0 +1,27 @@
+# Database files (too large for GitHub)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (upload separately)
+data/raw/*.csv
+data/processed/*.csv
+
+# Exceptions — keep schema and queries
+!sql/schema.sql
+!sql/queries.sql
