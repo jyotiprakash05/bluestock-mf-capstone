@@ -1,0 +1,11 @@
+amfi_code,scheme_name,fund_house,category,plan,return_1yr_pct,return_3yr_pct,return_5yr_pct,benchmark_3yr_pct,alpha,beta,sharpe_ratio,sortino_ratio,std_dev_ann_pct,max_drawdown_pct,aum_crore,expense_ratio_pct,morningstar_rating,risk_grade,return_rank,sharpe_rank,alpha_rank,drawdown_rank,composite_score
+100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,Regular,6.83,7.37,6.41,5.39,1.98,0.44,1.84,2.79,4.0,-6.01,27953,0.56,3,Low,36.0,4.0,1.0,35.0,15.499999999999998
+120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,Regular,17.12,18.23,17.75,16.32,1.91,1.0,0.96,1.27,19.0,-21.92,47469,1.56,4,High,7.0,15.0,2.0,16.0,7.85
+120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Regular,8.89,7.68,7.94,5.83,1.85,0.26,7.68,10.37,0.5,-2.62,39116,0.74,5,Low,35.0,1.0,3.5,38.0,15.25
+120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,Regular,15.74,15.65,13.5,13.8,1.85,0.95,0.98,1.57,16.0,-19.5,35012,1.45,5,Moderately High,11.0,12.0,3.5,21.0,9.1
+101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Regular,24.93,22.38,23.8,20.54,1.84,0.97,0.9,1.47,25.0,-23.61,41613,1.53,5,Very High,3.0,24.5,5.0,14.0,9.425
+149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,Regular,11.96,12.82,12.35,11.0,1.82,0.91,0.92,1.63,14.0,-21.7,41828,1.54,5,Moderate,25.0,21.0,6.0,19.5,15.899999999999999
+118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Direct,10.14,11.77,12.31,9.97,1.8,1.04,0.91,1.24,13.0,-26.75,20284,0.89,5,Moderate,32.0,22.5,7.0,8.0,17.425
+102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Regular,17.43,15.34,15.78,13.55,1.79,1.0,0.96,1.37,16.0,-12.14,17912,1.64,5,Moderately High,13.0,15.0,8.0,34.0,12.65
+119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,Direct,15.25,11.3,14.23,9.52,1.78,0.87,0.81,1.29,14.0,-24.43,1231,0.66,3,Moderate,34.0,35.5,9.0,12.0,22.075
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Regular,14.91,14.56,15.68,12.86,1.7,0.99,0.91,1.55,16.0,-33.15,49046,1.52,5,Moderately High,19.0,22.5,10.5,2.0,13.624999999999998

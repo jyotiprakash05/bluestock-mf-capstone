@@ -1,0 +1,11 @@
+amfi_code,scheme_name,fund_house,category,plan,return_1yr_pct,return_3yr_pct,return_5yr_pct,benchmark_3yr_pct,alpha,beta,sharpe_ratio,sortino_ratio,std_dev_ann_pct,max_drawdown_pct,aum_crore,expense_ratio_pct,morningstar_rating,risk_grade,return_rank,sharpe_rank,alpha_rank,drawdown_rank,composite_score
+119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Direct,20.59,23.14,21.82,22.01,1.13,1.04,0.93,1.67,25.0,-24.78,36061,0.72,4,Very High,2.0,19.5,22.5,11.0,11.075
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,Direct,19.98,15.29,15.85,14.39,0.9,1.04,0.8,1.38,19.0,-32.22,18792,0.78,4,High,14.0,38.5,28.0,4.0,19.825
+118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Direct,10.14,11.77,12.31,9.97,1.8,1.04,0.91,1.24,13.0,-26.75,20284,0.89,5,Moderate,32.0,22.5,7.0,8.0,17.425
+118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Regular,21.3,20.15,21.88,19.35,0.8,1.03,0.81,1.14,25.0,-30.87,43630,1.53,4,Very High,5.0,35.5,34.0,5.0,17.675
+120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Direct,14.12,14.41,13.02,13.53,0.88,1.03,1.03,1.27,14.0,-26.59,41553,0.8,3,Moderate,20.0,9.0,31.0,9.0,15.35
+101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,Regular,14.82,13.78,12.86,12.44,1.34,1.03,0.98,1.25,14.0,-15.07,23500,1.6,5,Moderate,22.0,12.0,18.0,29.0,16.1
+118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,Direct,14.42,12.33,14.72,10.63,1.7,1.02,0.88,1.48,14.0,-18.14,39475,0.72,3,Moderate,27.0,26.5,10.5,22.0,19.025
+120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,Regular,14.02,18.08,17.55,17.19,0.89,1.0,0.95,1.45,19.0,-21.84,979,1.36,3,High,8.0,17.0,29.5,18.0,14.350000000000001
+102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Regular,17.43,15.34,15.78,13.55,1.79,1.0,0.96,1.37,16.0,-12.14,17912,1.64,5,Moderately High,13.0,15.0,8.0,34.0,12.65
+119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,Regular,14.88,15.18,18.94,13.76,1.42,1.0,0.8,1.18,19.0,-32.38,28996,1.38,5,High,15.0,38.5,16.0,3.0,17.625
