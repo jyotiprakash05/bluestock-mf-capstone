@@ -39,7 +39,7 @@ bluestock-mf-capstone/
 │   ├── run_queries.py          ← Day 2: Run 10 analytical SQL queries
 │   ├── eda_analysis.py         ← Day 3: 15+ EDA charts (Matplotlib/Seaborn)
 │   ├── advanced_analytics.py   ← Day 6: VaR, CVaR, Cohort, HHI, Recommender
-│   ├── dashboard_app.py        ← Day 5: Streamlit dashboard (alternative)
+│   ├── dashboard_app.py        ← Day 5: Dashboard using Power BI
 │   └── run_pipeline.py         ← Master script — runs full pipeline end to end
 │
 ├── sql/
