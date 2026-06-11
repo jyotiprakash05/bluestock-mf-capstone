@@ -35,13 +35,15 @@ CREATE TABLE IF NOT EXISTS dim_date (
 -- ── FACT: Daily NAV ─────────────────────────────────────────
 CREATE TABLE IF NOT EXISTS fact_nav (
     id               INTEGER PRIMARY KEY AUTOINCREMENT,
-    amfi_code        TEXT    NOT NULL REFERENCES dim_fund(amfi_code),
-    nav_date         DATE    NOT NULL,
-    nav              REAL    NOT NULL,
-    daily_return_pct REAL,           -- (NAV_t / NAV_t-1) - 1
-    UNIQUE (amfi_code, nav_date)
+    amfi_code        TEXT NOT NULL REFERENCES dim_fund(amfi_code),
+    date             DATE NOT NULL,
+    nav              REAL NOT NULL,
+    daily_return_pct REAL,
+    UNIQUE (amfi_code, date)
 );
-CREATE INDEX IF NOT EXISTS idx_nav_code_date ON fact_nav (amfi_code, nav_date);
+
+CREATE INDEX IF NOT EXISTS idx_nav_code_date
+ON fact_nav (amfi_code, date);
 
 -- ── FACT: Investor Transactions ─────────────────────────────
 CREATE TABLE IF NOT EXISTS fact_transactions (
